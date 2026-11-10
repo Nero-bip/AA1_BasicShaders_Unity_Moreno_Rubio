@@ -38,24 +38,25 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Amount_of_Strips: 150
-    - _Blink_Speed: 5
+    - _Amount_of_Strips: 1
+    - _Blink_Speed: 3
     - _Color_Intensity: 1
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Secondary_Amount_of_Strips: 0
-    - _Secondary_Blink_Speed: 0
-    - _Secondary_Color_Intensity: 0
-    - _Secondary_Strip_Size: 0
+    - _Secondary_Amount_of_Strips: 53.08
+    - _Secondary_Blink_Speed: 10
+    - _Secondary_Color_Intensity: 2.31
+    - _Secondary_Strip_Size: 0.17
     - _Secondary_Strips_Color: 0
-    - _Secondary_Strips_Horizontal_Displacement: 0
-    - _Secondary_Vertical_Speed: 0
-    - _Strip_Size: 0.2
+    - _Secondary_Strips_Horizontal_Displacement: 0.82
+    - _Secondary_Vertical_Speed: 1.45
+    - _Strip_Size: 0.5
     - _Strips_Color: 0
-    - _Strips_Horizontal_Displacement: 0
-    - _Vertical_Speed: 28.8
+    - _Strips_Horizontal_Displacement: 70
+    - _Vertical_Speed: 10
     m_Colors:
-    - _Strip_Color: {r: 0, g: 0.9122356, b: 1, a: 1}
+    - _Secondary_Strip_Color: {r: 0, g: 0.44272923, b: 1, a: 1}
+    - _Strip_Color: {r: 0, g: 1, b: 0.14653718, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
 --- !u!114 &7957406662258693467

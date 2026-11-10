@@ -88,7 +88,7 @@ Material:
     - _Metal_Intensity: 1
     - _Noise_Scale: 1
     - _Normal_Strength: 1
-    - _Paper_Alpha_Intensity: 0.604
+    - _Paper_Alpha_Intensity: 0.537
     - _QueueControl: 0
     - _QueueOffset: 0
     - _Smoothness_Contrast: 1
