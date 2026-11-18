@@ -82,7 +82,7 @@ Material:
     - _NoiseScale: 70
     - _Noise_Scale: 1
     - _NormalStrenght: 1
-    - _Paper_Alpha_Intensity: 0.57
+    - _Paper_Alpha_Intensity: 1
     - _QueueControl: 0
     - _QueueOffset: 0
     - _Smoothness_Contrast: 1
@@ -90,7 +90,7 @@ Material:
     m_Colors:
     - _NoiseScale: {r: 0, g: 0, b: 0, a: 0}
     - _Noise_Scale: {r: 1, g: 1, b: 0, a: 0}
-    - _Tint: {r: 0.9009434, g: 0.99811786, b: 1, a: 1}
-    - _TintNoise: {r: 0.4481132, g: 0.96825916, b: 1, a: 1}
+    - _Tint: {r: 0.6037736, g: 0.56901187, b: 0.259167, a: 1}
+    - _TintNoise: {r: 0.5707547, g: 0.9756456, b: 1, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
