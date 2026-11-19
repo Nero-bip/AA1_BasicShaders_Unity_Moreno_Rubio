@@ -38,21 +38,21 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Amount_of_Strips: 17.8
+    - _Amount_of_Strips: 76
     - _Blink_Speed: 5
     - _Color_Intensity: 1
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Secondary_Amount_of_Strips: 19
+    - _Secondary_Amount_of_Strips: 57.4
     - _Secondary_Blink_Speed: 5.14
     - _Secondary_Color_Intensity: 1
     - _Secondary_Strip_Size: 0.2
-    - _Secondary_Strips_Horizontal_Displacement: 4.91
+    - _Secondary_Strips_Horizontal_Displacement: 1
     - _Secondary_Vertical_Speed: 15.58
     - _Strip_Size: 0.2
-    - _Stripes_Horizontal_Displacement: 3
+    - _Stripes_Horizontal_Displacement: 1
     - _Strips_Horizontal_Displacement: 7.3
-    - _Vertical_Speed: 1.42
+    - _Vertical_Speed: 3.98
     m_Colors:
     - _Secondary_Strips_Color: {r: 0.16316229, g: 1, b: 0, a: 1}
     - _StripsColor: {r: 0, g: 0.5551642, b: 1, a: 1}
