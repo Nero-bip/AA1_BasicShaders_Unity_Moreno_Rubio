@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!114 &-7232333557880216156
+--- !u!114 &-6767248607289807553
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
@@ -20,8 +20,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: MSpiralOrb
-  m_Shader: {fileID: -6465566751694194690, guid: 463a7793ade357542853a513086bffb6, type: 3}
+  m_Name: M_SpiralOrb
+  m_Shader: {fileID: -6465566751694194690, guid: a0003b74d2e2421418679666d2000b62, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -51,22 +51,22 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Amount_of_Strips: 10
-    - _Blink_Speed: 3
+    - _Amount_of_Stripes: 76
+    - _Blink_Speed: 5
     - _Color_Intensity: 1
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Secondary_Amount_of_Strips: 10
-    - _Secondary_Blink_Speed: 1.45
-    - _Secondary_Color_Intensity: 2.31
-    - _Secondary_Strip_Size: 10
-    - _Secondary_Strips_Horizontal_Displacement: -1
-    - _Secondary_Vertical_Speed: 0.82
-    - _Strip_Size: 0.5
+    - _Secondary_Amount_of_Stripes: 57.4
+    - _Secondary_Blink_Speed: 5.14
+    - _Secondary_Color_Intensity: 1
+    - _Secondary_Strip_Size: 0.2
+    - _Secondary_Strips_Horizontal_Displacement: 1
+    - _Secondary_Vertical_Speed: 15.58
+    - _Strip_Size: 0.2
     - _Stripes_Horizontal_Displacement: 1
-    - _Vertical_Speed: 10
+    - _Vertical_Speed: 4
     m_Colors:
-    - _Secondary_Strips_Color: {r: 0.24347979, g: 1, b: 0, a: 1}
-    - _StripsColor: {r: 0, g: 1, b: 0.94610655, a: 1}
+    - _Secondary_Stripes_Color: {r: 0.16470589, g: 1, b: 0, a: 1}
+    - _StripesColor: {r: 0, g: 0.5568628, b: 1, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1

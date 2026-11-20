@@ -1321,7 +1321,7 @@
     "m_Group": {
         "m_Id": ""
     },
-    "m_Name": "SG_Normal Adjustments",
+    "m_Name": "Sub Graph_Normal Adjustments",
     "m_DrawState": {
         "m_Expanded": true,
         "m_Position": {
@@ -2217,7 +2217,7 @@
         "half tone"
     ],
     "m_Precision": 0,
-    "m_PreviewExpanded": true,
+    "m_PreviewExpanded": false,
     "m_DismissedVersion": 0,
     "m_PreviewMode": 0,
     "m_CustomColors": {
@@ -2637,7 +2637,7 @@
     "m_PerRendererData": false,
     "m_customAttributes": [],
     "m_Value": {
-        "m_SerializedTexture": "{\"texture\":{\"fileID\":2800000,\"guid\":\"ac907d7c89c755a469b9e9c0fe40842f\",\"type\":3}}",
+        "m_SerializedTexture": "{\"texture\":{\"fileID\":2800000,\"guid\":\"2b49b45a58905294a8374187d7808bce\",\"type\":3}}",
         "m_Guid": ""
     },
     "isMainTexture": false,
@@ -2809,7 +2809,7 @@
     "m_PerRendererData": false,
     "m_customAttributes": [],
     "m_Value": {
-        "m_SerializedTexture": "{\"texture\":{\"fileID\":2800000,\"guid\":\"fc1b6eb775c1fab4a894fc8f21fe5d45\",\"type\":3}}",
+        "m_SerializedTexture": "{\"texture\":{\"fileID\":2800000,\"guid\":\"13da81e0a2daf404fba570fe1c622f03\",\"type\":3}}",
         "m_Guid": ""
     },
     "isMainTexture": false,
@@ -3002,7 +3002,7 @@
     "m_Group": {
         "m_Id": ""
     },
-    "m_Name": "SG_Diffuse Adjustments",
+    "m_Name": "Sub Graph_Diffuse Adjustments",
     "m_DrawState": {
         "m_Expanded": true,
         "m_Position": {
@@ -3240,7 +3240,7 @@
     "m_PerRendererData": false,
     "m_customAttributes": [],
     "m_Value": {
-        "m_SerializedTexture": "{\"texture\":{\"fileID\":2800000,\"guid\":\"44ca5655523413e418153b6f9124ae34\",\"type\":3}}",
+        "m_SerializedTexture": "{\"texture\":{\"fileID\":2800000,\"guid\":\"aa371c92710889e40a83e1039194be73\",\"type\":3}}",
         "m_Guid": ""
     },
     "isMainTexture": false,
@@ -3774,7 +3774,7 @@
     "m_PerRendererData": false,
     "m_customAttributes": [],
     "m_Value": {
-        "m_SerializedTexture": "{\"texture\":{\"fileID\":2800000,\"guid\":\"3690d59c3397de14bbd9598a3de286d8\",\"type\":3}}",
+        "m_SerializedTexture": "{\"texture\":{\"fileID\":2800000,\"guid\":\"08a17b594749e0349ba0350b54f0c2b6\",\"type\":3}}",
         "m_Guid": ""
     },
     "isMainTexture": false,
@@ -4993,7 +4993,7 @@
     "m_Group": {
         "m_Id": ""
     },
-    "m_Name": "SG_Diffuse Adjustments",
+    "m_Name": "Sub Graph_Diffuse Adjustments",
     "m_DrawState": {
         "m_Expanded": true,
         "m_Position": {
@@ -5100,7 +5100,7 @@
     "m_Group": {
         "m_Id": ""
     },
-    "m_Name": "SG_Mask Map Adjustments",
+    "m_Name": "Sub Graph_Mask Map Adjustments",
     "m_DrawState": {
         "m_Expanded": true,
         "m_Position": {

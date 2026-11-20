@@ -1321,7 +1321,7 @@
     "m_Group": {
         "m_Id": ""
     },
-    "m_Name": "SG_Normal Adjustments",
+    "m_Name": "Sub Graph_Normal Adjustments",
     "m_DrawState": {
         "m_Expanded": true,
         "m_Position": {
@@ -1479,10 +1479,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -780.0001220703125,
-            "y": 808.0,
-            "width": 142.0,
-            "height": 34.00006103515625
+            "x": -737.0,
+            "y": 734.0000610351563,
+            "width": 142.00006103515626,
+            "height": 33.99993896484375
         }
     },
     "m_Slots": [
@@ -1661,8 +1661,8 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -233.0,
-            "y": 936.0,
+            "x": -189.99998474121095,
+            "y": 862.0000610351563,
             "width": 56.0,
             "height": 24.0
         }
@@ -2217,7 +2217,7 @@
         "half tone"
     ],
     "m_Precision": 0,
-    "m_PreviewExpanded": true,
+    "m_PreviewExpanded": false,
     "m_DismissedVersion": 0,
     "m_PreviewMode": 0,
     "m_CustomColors": {
@@ -2637,7 +2637,7 @@
     "m_PerRendererData": false,
     "m_customAttributes": [],
     "m_Value": {
-        "m_SerializedTexture": "{\"texture\":{\"fileID\":2800000,\"guid\":\"2b49b45a58905294a8374187d7808bce\",\"type\":3}}",
+        "m_SerializedTexture": "{\"texture\":{\"fileID\":2800000,\"guid\":\"ac907d7c89c755a469b9e9c0fe40842f\",\"type\":3}}",
         "m_Guid": ""
     },
     "isMainTexture": false,
@@ -2660,10 +2660,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 41.0,
-            "y": 1014.0,
-            "width": 186.0,
-            "height": 34.0
+            "x": 84.00000762939453,
+            "y": 940.0,
+            "width": 186.00003051757813,
+            "height": 34.00006103515625
         }
     },
     "m_Slots": [
@@ -2809,7 +2809,7 @@
     "m_PerRendererData": false,
     "m_customAttributes": [],
     "m_Value": {
-        "m_SerializedTexture": "{\"texture\":{\"fileID\":2800000,\"guid\":\"13da81e0a2daf404fba570fe1c622f03\",\"type\":3}}",
+        "m_SerializedTexture": "{\"texture\":{\"fileID\":2800000,\"guid\":\"fc1b6eb775c1fab4a894fc8f21fe5d45\",\"type\":3}}",
         "m_Guid": ""
     },
     "isMainTexture": false,
@@ -3002,7 +3002,7 @@
     "m_Group": {
         "m_Id": ""
     },
-    "m_Name": "SG_Diffuse Adjustments",
+    "m_Name": "Sub Graph_Diffuse Adjustments",
     "m_DrawState": {
         "m_Expanded": true,
         "m_Position": {
@@ -3240,7 +3240,7 @@
     "m_PerRendererData": false,
     "m_customAttributes": [],
     "m_Value": {
-        "m_SerializedTexture": "{\"texture\":{\"fileID\":2800000,\"guid\":\"aa371c92710889e40a83e1039194be73\",\"type\":3}}",
+        "m_SerializedTexture": "{\"texture\":{\"fileID\":2800000,\"guid\":\"44ca5655523413e418153b6f9124ae34\",\"type\":3}}",
         "m_Guid": ""
     },
     "isMainTexture": false,
@@ -3660,10 +3660,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -124.0,
-            "y": 772.0,
-            "width": 130.0,
-            "height": 118.0
+            "x": -80.99998474121094,
+            "y": 698.0,
+            "width": 130.00010681152345,
+            "height": 118.00006103515625
         }
     },
     "m_Slots": [
@@ -3774,7 +3774,7 @@
     "m_PerRendererData": false,
     "m_customAttributes": [],
     "m_Value": {
-        "m_SerializedTexture": "{\"texture\":{\"fileID\":2800000,\"guid\":\"08a17b594749e0349ba0350b54f0c2b6\",\"type\":3}}",
+        "m_SerializedTexture": "{\"texture\":{\"fileID\":2800000,\"guid\":\"3690d59c3397de14bbd9598a3de286d8\",\"type\":3}}",
         "m_Guid": ""
     },
     "isMainTexture": false,
@@ -4007,10 +4007,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 82.0,
-            "y": 869.0,
-            "width": 130.0,
-            "height": 142.0
+            "x": 125.00004577636719,
+            "y": 795.0000610351563,
+            "width": 130.00010681152345,
+            "height": 142.00006103515626
         }
     },
     "m_Slots": [
@@ -4157,9 +4157,9 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -158.0,
-            "y": 889.0,
-            "width": 168.0,
+            "x": -114.99993133544922,
+            "y": 815.0000610351563,
+            "width": 167.99998474121095,
             "height": 34.0
         }
     },
@@ -4351,10 +4351,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -191.0,
-            "y": 1023.0,
-            "width": 132.0,
-            "height": 94.0
+            "x": -147.9999237060547,
+            "y": 949.0000610351563,
+            "width": 131.99990844726563,
+            "height": 94.00006103515625
         }
     },
     "m_Slots": [
@@ -4570,10 +4570,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -308.0,
-            "y": 1068.0,
+            "x": -264.9999694824219,
+            "y": 994.0000610351563,
             "width": 56.0,
-            "height": 24.0
+            "height": 23.99993896484375
         }
     },
     "m_Slots": [
@@ -4774,10 +4774,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -763.0001220703125,
-            "y": 841.0,
+            "x": -720.0,
+            "y": 767.0000610351563,
             "width": 129.0,
-            "height": 34.0
+            "height": 33.99993896484375
         }
     },
     "m_Slots": [
@@ -4993,14 +4993,14 @@
     "m_Group": {
         "m_Id": ""
     },
-    "m_Name": "SG_Diffuse Adjustments",
+    "m_Name": "Sub Graph_Diffuse Adjustments",
     "m_DrawState": {
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -584.0001220703125,
-            "y": 779.0,
-            "width": 237.00003051757813,
+            "x": -541.0,
+            "y": 705.0,
+            "width": 237.00006103515626,
             "height": 143.00006103515626
         }
     },
@@ -5100,7 +5100,7 @@
     "m_Group": {
         "m_Id": ""
     },
-    "m_Name": "SG_Mask Map Adjustments",
+    "m_Name": "Sub Graph_Mask Map Adjustments",
     "m_DrawState": {
         "m_Expanded": true,
         "m_Position": {

@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: M_SpiralOrb
+  m_Name: M_SpiralOrbv1
   m_Shader: {fileID: -6465566751694194690, guid: 2f3853f1d627b664fb1483dd1af63989, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
